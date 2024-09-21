@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">Innovative Software engineer for 10 years with strong solid programming skills with PHP, C# .NET, Java, JavaScript, and Linux bash shell programming. Also, I have 4+ years as a DevOps Engineer with a strong Linux background and 4+ years of experience designing, implementing, and managing cutting-edge deployment automation of cloud resources.<br><br>✨ Creating bugs since ...<br>📚 I'm currently learning Advanced Software Design Architecture <br>🎯 Goals:</p>
+<p align="left">Innovative Software engineer for 10 years with strong solid programming skills with PHP, C# .NET, Java, JavaScript, and Linux bash shell programming. Also, I have 4+ years as a DevOps Engineer with a strong Linux background and 4+ years of experience designing, implementing, and managing cutting-edge deployment automation of cloud resources.<br><!-- <br>✨ Creating bugs since ...<br>-->📚 I'm currently learning Advanced Software Design Architecture <!--<br>🎯 Goals: </p>-->
 
 ###
 
